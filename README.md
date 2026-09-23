@@ -179,3 +179,10 @@ Compile-check all modules:
 ```bash
 .venv/bin/python3 -m compileall -q flac_checker.py audio detectors scoring reports tests
 ```
+
+## License
+
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
