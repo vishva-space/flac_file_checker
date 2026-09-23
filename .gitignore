@@ -1,0 +1,10 @@
+# Virtual environments
+.venv/
+.vsnv/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+
+# Generated analysis logs
+logs/
